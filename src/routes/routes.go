@@ -2,8 +2,8 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/go-api-poc/controllers"
-	"github.com/go-api-poc/models"
+	"github.com/milantech/go-api-poc/controllers"
+	"github.com/milantech/go-api-poc/models"
 )
 
 func Routes() {
